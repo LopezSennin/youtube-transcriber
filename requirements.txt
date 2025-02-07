@@ -1,0 +1,4 @@
+vosk
+soundfile
+yt_dlp
+youtube_dl
